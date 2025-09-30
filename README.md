@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # expense-tracker
 A lightweight, responsive, client-side Expense Tracker with LocalStorage, a 30-day chart, and CSV/JSON/XLSX import-export.
 =======
@@ -32,4 +31,3 @@ js/app.js — application logic, storage, import/export, chart updates
 Contact
 Developer: Homayoun mahmoodi For custom work or project inquiries 
 email: homi.84business@gmail.com
->>>>>>> 3542e77 (Initial commit: Expense Tracker)
